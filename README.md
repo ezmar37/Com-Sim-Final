@@ -1,6 +1,4 @@
-# Computer Simulations Final Project
-
-### Agent-Based Simulation of Prescription Pain Reliever Misuse
+# Agent-Based Simulation of Prescription Pain Reliever Misuse
 This repository contains an agent-based simulation exploring how access to mental health resources and rehabilitation services influences community-level prescription pain-reliever misuse. The project integrates **real-world survey data** with **computational modeling** to understand the impact of inclusive resources on substance-use outcomes.
 
 
